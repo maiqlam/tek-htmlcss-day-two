@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(97, 204, 204);
+
+}
+
+section > p {
+    color: grey;
+}
