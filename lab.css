@@ -1,0 +1,26 @@
+li:first-child {
+    font-size: 20px;
+    color:red;
+    border: solid 1px blue;
+
+}
+
+li:first-child:hover{color: green;}
+
+li:last-child {
+    font-size: 10px;
+    color: silver;
+    border: solid 1px grey;
+}
+
+li:last-child:hover{color: blue;}
+
+li:nth-child(9) {
+    font-size: 30px;
+    color:purple;
+    border: solid 1px green
+
+}
+
+li:nth-child(9):hover {color: red;}
+
